@@ -5,7 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:zarkon666/pxt-neopixel"
+        "neopixel": "github:kittenbot/pxt-neopixel#v0.6.15"
     },
     "files": [
         "README.md",
