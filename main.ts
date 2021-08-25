@@ -6,7 +6,7 @@ load dependency
 */
 
 
-//% color="#47bc00" weight=20 icon="\uf128"
+//% color="#47bc00" weight=20 icon="\uf100"
 namespace zarkonbit {
     const PCA9685_AD = 0x40
     const MODE1 = 0x00
