@@ -1,0 +1,17 @@
+{
+    "zarkonbit.Servo|block": "9g舵機|%index|角度 %degree",
+    "zarkonbit.GeekServo|block": "Geekservo|9g舵機|%index|角度 %degree",
+    "zarkonbit.GeekServo2KG|block": "Geekservo|2KG舵機|%index|角度 %degree",
+    "zarkonbit.StepperDegree|block": "步進 28BYJ-48|%index|角度 %degree",
+    "zarkonbit.StepperTurn|block": "步進 28BYJ-48|%index|圈數 %turn",
+    "zarkonbit.StepperDual|block": "雙步進(角度) |M1 %degree1| M2 %degree2",
+    "zarkonbit.StpCarMove|block": "步進小車 前進 |距離(cm) %distance|輪直徑(mm) %diameter",
+    "zarkonbit.StpCarTurn|block": "步進小車 轉向 |角度 %turn|輪直徑(mm) %diameter|輪距(mm) %track",
+    "zarkonbit.MotorRun|block": "馬達|%index|速度 %speed",
+    "zarkonbit.MotorRunDual|block": "馬達|%motor1|速度 %speed1|%motor2|速度 %speed2",
+    "zarkonbit.MotorRunDelay|block": "馬達|%index|速度 %speed|延時 %delay|s",
+    "zarkonbit.MotorStop|block": "馬達 停止|%index|",
+    "zarkonbit.MotorStopAll|block": "停止所有馬達",
+    "zarkonbit.MatrixDraw|block": "LED矩陣 描點|X %x|Y %y",
+    "zarkonbit.MatrixClear|block": "清空 LED矩陣"
+}

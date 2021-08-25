@@ -1,0 +1,21 @@
+{
+    "name": "zarkonbit",
+    "version": "0.0.1",
+    "description": "Extension for zarkonbit ",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:zarkon666/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-cn/zarkonbit-strings.json",
+        "_locales/zh-tw/zarkonbit-strings.json"
+
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
